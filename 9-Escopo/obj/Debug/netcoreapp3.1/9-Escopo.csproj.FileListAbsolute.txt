@@ -1,0 +1,13 @@
+D:\AprendendoCSharp\9-Escopo\bin\Debug\netcoreapp3.1\9-Escopo.exe
+D:\AprendendoCSharp\9-Escopo\bin\Debug\netcoreapp3.1\9-Escopo.deps.json
+D:\AprendendoCSharp\9-Escopo\bin\Debug\netcoreapp3.1\9-Escopo.runtimeconfig.json
+D:\AprendendoCSharp\9-Escopo\bin\Debug\netcoreapp3.1\9-Escopo.runtimeconfig.dev.json
+D:\AprendendoCSharp\9-Escopo\bin\Debug\netcoreapp3.1\9-Escopo.dll
+D:\AprendendoCSharp\9-Escopo\bin\Debug\netcoreapp3.1\9-Escopo.pdb
+D:\AprendendoCSharp\9-Escopo\obj\Debug\netcoreapp3.1\9-Escopo.csprojAssemblyReference.cache
+D:\AprendendoCSharp\9-Escopo\obj\Debug\netcoreapp3.1\9-Escopo.AssemblyInfoInputs.cache
+D:\AprendendoCSharp\9-Escopo\obj\Debug\netcoreapp3.1\9-Escopo.AssemblyInfo.cs
+D:\AprendendoCSharp\9-Escopo\obj\Debug\netcoreapp3.1\9-Escopo.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\9-Escopo\obj\Debug\netcoreapp3.1\9-Escopo.dll
+D:\AprendendoCSharp\9-Escopo\obj\Debug\netcoreapp3.1\9-Escopo.pdb
+D:\AprendendoCSharp\9-Escopo\obj\Debug\netcoreapp3.1\9-Escopo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\AprendendoCSharp\5-CaracteresETextos\bin\Debug\netcoreapp3.1\5-CaracteresETextos.exe
+D:\AprendendoCSharp\5-CaracteresETextos\bin\Debug\netcoreapp3.1\5-CaracteresETextos.deps.json
+D:\AprendendoCSharp\5-CaracteresETextos\bin\Debug\netcoreapp3.1\5-CaracteresETextos.runtimeconfig.json
+D:\AprendendoCSharp\5-CaracteresETextos\bin\Debug\netcoreapp3.1\5-CaracteresETextos.runtimeconfig.dev.json
+D:\AprendendoCSharp\5-CaracteresETextos\bin\Debug\netcoreapp3.1\5-CaracteresETextos.dll
+D:\AprendendoCSharp\5-CaracteresETextos\bin\Debug\netcoreapp3.1\5-CaracteresETextos.pdb
+D:\AprendendoCSharp\5-CaracteresETextos\obj\Debug\netcoreapp3.1\5-CaracteresETextos.csprojAssemblyReference.cache
+D:\AprendendoCSharp\5-CaracteresETextos\obj\Debug\netcoreapp3.1\5-CaracteresETextos.AssemblyInfoInputs.cache
+D:\AprendendoCSharp\5-CaracteresETextos\obj\Debug\netcoreapp3.1\5-CaracteresETextos.AssemblyInfo.cs
+D:\AprendendoCSharp\5-CaracteresETextos\obj\Debug\netcoreapp3.1\5-CaracteresETextos.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\5-CaracteresETextos\obj\Debug\netcoreapp3.1\5-CaracteresETextos.dll
+D:\AprendendoCSharp\5-CaracteresETextos\obj\Debug\netcoreapp3.1\5-CaracteresETextos.pdb
+D:\AprendendoCSharp\5-CaracteresETextos\obj\Debug\netcoreapp3.1\5-CaracteresETextos.genruntimeconfig.cache

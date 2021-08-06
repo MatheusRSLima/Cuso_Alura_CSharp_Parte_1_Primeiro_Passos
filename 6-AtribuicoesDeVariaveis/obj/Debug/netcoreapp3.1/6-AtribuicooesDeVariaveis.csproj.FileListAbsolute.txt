@@ -1,0 +1,13 @@
+D:\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\netcoreapp3.1\6-AtribuicooesDeVariaveis.exe
+D:\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\netcoreapp3.1\6-AtribuicooesDeVariaveis.deps.json
+D:\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\netcoreapp3.1\6-AtribuicooesDeVariaveis.runtimeconfig.json
+D:\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\netcoreapp3.1\6-AtribuicooesDeVariaveis.runtimeconfig.dev.json
+D:\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\netcoreapp3.1\6-AtribuicooesDeVariaveis.dll
+D:\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\netcoreapp3.1\6-AtribuicooesDeVariaveis.pdb
+D:\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\netcoreapp3.1\6-AtribuicooesDeVariaveis.csprojAssemblyReference.cache
+D:\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\netcoreapp3.1\6-AtribuicooesDeVariaveis.AssemblyInfoInputs.cache
+D:\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\netcoreapp3.1\6-AtribuicooesDeVariaveis.AssemblyInfo.cs
+D:\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\netcoreapp3.1\6-AtribuicooesDeVariaveis.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\netcoreapp3.1\6-AtribuicooesDeVariaveis.dll
+D:\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\netcoreapp3.1\6-AtribuicooesDeVariaveis.pdb
+D:\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\netcoreapp3.1\6-AtribuicooesDeVariaveis.genruntimeconfig.cache
